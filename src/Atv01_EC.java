@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Atv01 {
+public class Atv01_EC {
 
     public static void main(String[] args) {
 
